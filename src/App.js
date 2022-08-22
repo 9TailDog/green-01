@@ -1,10 +1,10 @@
+import React from 'react'
 import './App.css';
 import HomeTest01 from './component/HomeTest01'
 import HomeTest02 from './component/HomeTest02'
 import HomeTest03 from './component/HomeTest03'
 import HomeTest04 from './component/HomeTest04'
 import HomeTest05 from './component/HomeTest05'
-import AdvancedProject from './component/AdvancedProject'
 import Test from './component/Test'
 import User from './component/Test/User'
 
@@ -30,7 +30,6 @@ function App() {
 
       <main className='container'>
         <HomeTest04/>
-        <HomeTest05/>
       </main>
       
       <footer></footer>

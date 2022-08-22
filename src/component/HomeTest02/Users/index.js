@@ -1,3 +1,4 @@
+import React from "react"
 const Hienthi = ({data, onDelete}) => {
     console.log(data)
     return (

@@ -1,3 +1,4 @@
+import React from 'react'
 import './style.css'
 
 const List = ({list, onView, onEdit, onDelete, onChange}) => {

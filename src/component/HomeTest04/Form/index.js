@@ -1,11 +1,13 @@
-import { useMemo } from "react";
+import React from 'react'
 import Input from '../Input'
+import { useMemo } from 'react'
 
 const Form = ({ list, formData, onSubmit, onChange}) => {
 
     const disabled = useMemo(() => {
         return !formData.name || !formData.email
     }, [formData])
+
     return (
         <div>
             <div id="modal-form-user" className="modal" >

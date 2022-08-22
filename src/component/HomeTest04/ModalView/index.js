@@ -1,5 +1,5 @@
+import React, { useState, useEffect } from 'react';
 import { getUser } from '../../apis/users';
-import { useState, useEffect } from 'react';
 
 const ModalView = ({id}) => {
     const[data, setData]= useState({})

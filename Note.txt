@@ -86,3 +86,9 @@ ctyhien tai 32p-end
 
 ---
 react route-sign in
+--- Lam viec tren nhieu may haoc tren nhom
+github
+Sourcetree dowload
+1.Copy file vao file create tren github
+2.StageAll-Commit-push
+3.

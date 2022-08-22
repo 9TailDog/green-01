@@ -21,7 +21,7 @@ function App() {
                 <a class="nav-link active" aria-current="page" href="#">User</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Organization</a>
+                <a class="nav-link" href="./my-app/src/component/HomeTest05/index.js">Organization</a>
               </li>
             </ul>
           </div>
@@ -30,7 +30,7 @@ function App() {
 
       <main className='container'>
         <HomeTest04/>
-        
+        <HomeTest05/>
       </main>
       
       <footer></footer>
